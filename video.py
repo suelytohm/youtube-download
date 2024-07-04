@@ -1,4 +1,5 @@
 import yt_dlp
+import os
 
 output_dir = 'vídeos'
 if not os.path.exists(output_dir):
